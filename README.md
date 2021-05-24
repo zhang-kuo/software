@@ -14,10 +14,10 @@
   游戏类工具  
 
 <div align=center>  # 微信公众号：  
-<div align=center>![公众号.png](https://i.loli.net/2021/05/24/3NuK1YItOV4sEme.png)
+![公众号.png](https://i.loli.net/2021/05/24/3NuK1YItOV4sEme.png)
 
 <div align=center>  # 扫码加群更方面：  
-<div align=center>![QQ群.png](https://i.loli.net/2021/05/24/83yqzMjvCHD4EoK.png)
+![QQ群.png](https://i.loli.net/2021/05/24/83yqzMjvCHD4EoK.png)
   
 ## 郑重声明：  
 **
